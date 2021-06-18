@@ -1,0 +1,9 @@
+django
+psycopg2-binary
+djangorestframework
+pillow
+django-cors-headers
+djoser
+stripe
+gunicorn
+environs
